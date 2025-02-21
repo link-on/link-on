@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Perkenalkan nama saya **Athaya Saputra**, pemilik LinkOn. <br>
+
+Saya seorang Mahasiswa Fisika di IPB University. Saya memiliki minat besar terhadap Pengembangan Game. <br>
 <!--
 **link-on/link-on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
